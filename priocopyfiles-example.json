@@ -1,0 +1,5 @@
+{
+    "files": ["1.css","2.css","3.css"],
+    "folders": ["source_1/css/", "source_2/css/"],
+    "destinationPath": "destination/css/"
+}

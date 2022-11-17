@@ -1,0 +1,12 @@
+{
+  "name": "priocopyfiles",
+  "version": "1.0.0",
+  "description": "Copy files from multiple source folders to one destination folder, based on priority of source folder.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jan Valkenburg",
+  "license": "ISC"
+}
